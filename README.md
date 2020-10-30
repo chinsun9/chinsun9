@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![chinsun9's github stats](https://github-readme-stats.vercel.app/api?username=chinsun9)](https://github.com/anuraghazra/github-readme-stats)
+![chinsun9's github stats](https://github-readme-stats.vercel.app/api?username=chinsun9)
 
+![chinsun9's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=chinsun9&exclude_repo=chinsun9.github.io)
 
 <!--
 **chinsun9/chinsun9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
